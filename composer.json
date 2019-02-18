@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "basic-wordpress-boilerplate-plugin\\": "inc/classes/"
+            "basic_wordpress_boilerplate_plugin\\": "inc/classes/"
         }
     }
 }
